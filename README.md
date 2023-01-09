@@ -19,6 +19,7 @@ NPM
 ## To start project in development mode:
 
 * `npm install` - установит необходимые зависимости
+* `npm start` - запустит проект локально
 * `npm run develop` - запустит "WebpackDevServer"
 
 **Note:** Версии требуемые проектом указаны в `package.json` в поле `engines`
